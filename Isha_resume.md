@@ -72,7 +72,7 @@ ITI Limited, Mankapur | 15 Jun – 14 Jul 2012
 ## Academic Projects & Dissertation
 
 - **VLSI Master's Dissertation & Published Paper**
-  "Optimization of Low Power Decoder Using Double-Gate Graphene Nanoribbon Field-Effect Transistors" (Ishant Kumar Das, International Research Journal of Engineering and Technology – IRJEdT, Vol. 06 Issue 07, July 2024)  
+  ["Optimization of Low Power Decoder Using Double-Gate Graphene Nanoribbon Field-Effect Transistors"](https://www.irjweb.com/viewarticle.php?aid=Optimization-of-Low-Power-Decoder-Using-Double-Gate-Graphene-Nano-Ribbon-Field-Effect-Transistors) (Ishant Kumar Das, International Research Journal of Engineering and Technology – IRJEdT, Vol. 06 Issue 07, July 2024)  
   Designed and simulated 2:4 & 4:16 decoders using DG-GNRFETs in 22nm technology (HSPICE), achieving >99% reduction in average power and ~99.7% in PDP compared to traditional MOSFET designs.
 
 - **B.Tech. Dissertation**  
@@ -81,5 +81,6 @@ ITI Limited, Mankapur | 15 Jun – 14 Jul 2012
 ## Interests
 
 Passionate about complex adaptive systems and human–machine decision loops for superior orientation in high-stakes, uncertain environments; committed to responsible AI governance that advances digital sovereignty, institutional transparency, and accountability; dedicated to building scalable, observable infrastructure that delivers resilience and preserves liberty amid powerful data ecosystems and evolving societal dynamics.
+
 
 
