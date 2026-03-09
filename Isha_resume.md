@@ -1,6 +1,6 @@
 # Ishant Kumar Das
 
-**idfoxdale.com**  
+**[idfoxdale.com](https://www.idfoxdale.com/)**  
 **Contact:** Bengaluru, India  
 **LinkedIn:** <https://www.linkedin.com/in/idfoxdale/> | **GitHub:** <https://github.com/idfoxdale> | **Email Alternate:** <connect@idfoxdale.com>  
 
@@ -81,3 +81,4 @@ ITI Limited, Mankapur | 15 Jun – 14 Jul 2012
 ## Interests
 
 Passionate about complex adaptive systems and human–machine decision loops for superior orientation in high-stakes, uncertain environments; committed to responsible AI governance that advances digital sovereignty, institutional transparency, and accountability; dedicated to building scalable, observable infrastructure that delivers resilience and preserves liberty amid powerful data ecosystems and evolving societal dynamics.
+
